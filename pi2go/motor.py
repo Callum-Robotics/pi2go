@@ -1,5 +1,5 @@
-# Pi2Go basic motor sketch - for the first episode of my robot tutorial series.
-# In truth this program is very simple - the parts where it captures key presses is the daunting bit.
+# Pi2Go basic motor code - for the first episode of my robot tutorial series.
+# This program is quite simple - the parts where it captures key presses is the harder part.
 # Try to work through it slowly and you'll soon understand!
 
 # Use the arrow keys to control the direction of the Pi2Go and use the 'greater than' and 'less than'
